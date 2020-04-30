@@ -17,11 +17,7 @@ Short description of the project..
 * Librairies, softwares to install.
 
 Ex :
-Oracle JDK 1.8+
-Maven 3.2+ (used for projects build, dependency and documentation)
-Eclipse IDE or VScode
-Spring Tools plugin : set of tools for Spring Boot (optional)
-Docker and docker-compose
+Oracle JDK 1.8+, Maven 3.2+ (used for projects build, dependency and documentation), Eclipse IDE or VScode, Spring Tools plugin : set of tools for Spring Boot (optional), Docker and docker-compose
 …
 
 
@@ -31,6 +27,7 @@ Docker and docker-compose
 
 ### Usage
 * Integration postman run button :  [![Run in Postman](https://run.pstmn.io/button.svg)](https://learning.postman.com/docs/postman-for-publishers/run-in-postman/creating-run-button/)
+* Local swagger URL : http://localhost/swaggerui/
 
 
 ### Build
