@@ -1,6 +1,6 @@
 # API Title
 
-This project is available on [API-Portal](https://api-portal.decathlon.net/)
+This project is available on [API-Portal](https://github.com/louisthomaspro/api-doc-tempalte/)
 
 ## 1. About
 
@@ -40,4 +40,4 @@ Oracle JDK 1.8+, Maven 3.2+ (used for projects build, dependency and documentati
 
 ## Wiki
 
-Find more in the [Wiki](https://github.com/louisthomaspro/doc-tempalte/wiki)
+Find more in the [Wiki](https://github.com/louisthomaspro/api-doc-tempalte/wiki)
